@@ -8,7 +8,7 @@
 - 👯 I'm currently learning Full Stack Web Development at Masai School.
 
 - 🤝 I'm looking to work as Web Developer.
--     All my projects are available at my **github repositories**
+-     All my projects are available at my **Github Repositories**
 - 📝 I regularly write articles on [https://medium.com/@ambika13kumari](https://medium.com/@ambika13kumari)
 
 - 💬 Ask me about **Javascript , HTML , CSS , REACT**
