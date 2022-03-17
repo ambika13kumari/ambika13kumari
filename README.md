@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambika13kumari&label=Profile%20views&color=0e75b6&style=flat" alt="ambika13kumari" /> </p>
 
-- 🔭 I’m currently working on **react**
+- 🔭 I’m currently student at **Masai School**
 
-- 👯 I've worked on [Nykaa.com](https://github.com/Ankit-Mishra07/Nykaa)
+- 👯 I'm currently learning Full Stack Web Development at Masai School.
 
-- 🤝 I’ve worked on [HOK makeup.com](https://github.com/Ankit-Mishra07/hokmakeup)
-
+- 🤝 I'm looking to work as Web Developer.
+-     All my projects are available at my **github repositories**
 - 📝 I regularly write articles on [https://medium.com/@ambika13kumari](https://medium.com/@ambika13kumari)
 
 - 💬 Ask me about **Javascript , HTML , CSS , REACT**
