@@ -37,4 +37,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 <br/>
 <br/>
 <h5>Github Stats</h5>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambika13kumari&show_icons=true&locale=en" alt="ambika13kumari" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ambika13kumari&show_icons=true&locale=en" alt="ambika13kumari" /></p>
