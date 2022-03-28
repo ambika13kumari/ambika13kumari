@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambika Kumari</h1>
-<h3 align="center">An aspiring full stack JavaScript developer learning to design, develop and maintain responsive web applications.</h3>
+<h3 align="center">An aspiring full stack JavaScript developer learning to design, develop and maintain responsive web applications.Always been intrigued by the
+designs and structures of different website and so I decided to pursue software development as a full time career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambika13kumari&label=Profile%20views&color=0e75b6&style=flat" alt="ambika13kumari" /> </p>
 
