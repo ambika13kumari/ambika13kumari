@@ -15,6 +15,7 @@ designs and structures of different website and so I decided to pursue software 
 - 💬 Ask me about **Javascript , HTML , CSS , REACT**
 
 - 📫 How to reach me **ambika13kumari@gmail.com**
+- visit my portfolio **https://ambika-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 
